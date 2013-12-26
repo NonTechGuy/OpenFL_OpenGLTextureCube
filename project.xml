@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="OpenGL example05" package="openfl.samples.openglexample05" version="1.0.0" company="" />
+	<app main="Main" path="Export" file="OpenExample05" />
+	<window width="500" height="500" />
+
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+	
+	<assets path="Assets" rename="assets" exclude="*.svg" />
+	<icon path="Assets/openfl.svg" />
+	
+</project>
