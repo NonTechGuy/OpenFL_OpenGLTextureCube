@@ -3,8 +3,9 @@
 	
 	<meta title="OpenGL example05" package="openfl.samples.openglexample05" version="1.0.0" company="" />
 	<app main="Main" path="Export" file="OpenExample05" />
-	<window width="500" height="500" />
-
+	<window depth-buffer="true" />
+	<window stencil-buffer="true" />
+	
 	<source path="Source" />
 	
 	<haxelib name="openfl" />
